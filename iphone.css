@@ -137,7 +137,7 @@ body{
 	width: 21px;
 	height: 21px;
 	border-radius: 4px;
-	border: 2px white solid;
+	border: 2px #666 solid;
 	position: absolute;
 	top: 32%;
 	left: 32%;
